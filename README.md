@@ -1,2 +1,2 @@
-# Pomodoro_Timer
+# Pomodoro Timer
 A python project using the TKinter module to make a focus timer.
